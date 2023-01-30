@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97666379847",
+    "project_id": "welcome-to-mozambique",
+    "storage_bucket": "welcome-to-mozambique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97666379847:android:4b32eeeafd97e55e224162",
+        "android_client_info": {
+          "package_name": "com.example.welcometomozambique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97666379847-8m3m8o4fjdg0qbhdpk61p9vkltcu474g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3D2iPVlvbMTzNOG5fDZSlFB4vgz_atGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97666379847-8m3m8o4fjdg0qbhdpk61p9vkltcu474g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

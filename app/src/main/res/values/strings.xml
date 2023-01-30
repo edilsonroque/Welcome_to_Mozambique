@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Welcome to Mozambique</string>
+    <string name="mo_ambique_manning_nice">Moçambique é manning NICE</string>
+    <string name="login">Login</string>
+    <string name="text_cadastro">Click aqui para criar uma conta</string>
+    <string name="title_cadastrese">Cadastre-se</string>
+    <string name="title_activity_tela_principal">TelaPrincipal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="perfil">perfil</string>
+    <string name="terminar_sessao">terminar_sessao</string>
+    <string name="sobre_nos">sobre_nos</string>
+    <string name="sobre_noos">Sobre Nos</string>
+    <string name="a_quot_welcome_to_mozambique_quot_um_app_que_re_ni_pontos_tur_sticos_mo_ambicanos_de_acomoda_o_alojamento_e_promove_excurs_es_pelo_pa_s_contactos_258_87_710_333">A \"Welcome to Mozambique\" é um app que reúni pontos turísticos Moçambicanos, de acomodação, alojamento e promove excursões pelo país Contactos: +(258) 87 710 333</string>
+    <string name="localizacao_categoria">Localizacao Categoria</string>
+    <string name="nome_praia">Nome praia</string>
+    <string name="todo">TODO</string>
+</resources>

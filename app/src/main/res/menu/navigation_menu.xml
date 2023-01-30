@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuPerfil"
+        android:icon="@drawable/icone_user"
+        android:title="Perfil"/>
+
+    <item
+        android:id="@+id/explorer"
+        android:icon="@drawable/icone_explorer"
+        android:title="Explorar"/>
+
+    <item
+        android:id="@+id/sobreNos"
+        android:icon="@drawable/icone_aboutus"
+        android:title="Sobre Nós"/>
+
+    <item
+        android:id="@+id/excursoes"
+        android:icon="@drawable/icone_excursion"
+        android:title="Excursões"/>
+
+    <item
+        android:id="@+id/terminarSesssao"
+        android:icon="@drawable/icone_x"
+        android:title="Terminar sessão"/>
+
+
+</menu>
